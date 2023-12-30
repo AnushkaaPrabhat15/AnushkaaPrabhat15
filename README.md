@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I'm currently working on Data Analysis.<br>I'm looking to collaborate as Data Analyst.<br>I'm currently learning machine learning.<br>How to reach me: tiwarianushkaa641@gmail.com<br>
+I'm currently working on Data Analysis <br>I'm looking to collaborate as Data Analyst.<br>I'm currently learning machine learning.<br>How to reach me: tiwarianushkaa641@gmail.com<br>
 
 
 ## 🌐 Socials:
