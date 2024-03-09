@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-My journey in the world of data revolves around extracting meaningful patterns, visualizing trends, and making data-driven decisions.  
+My journey in the world of data revolves around extracting meaningful patterns, visualizing trends, and making data-driven decisions.   
  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anushkaa0_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anushkaa-prabhat-7a6947264/) 
