@@ -10,7 +10,7 @@
  
 - 📫 How to reach me **tiwarianushkaa641@gmail.com**
 
-- ⚡ **I run on coffee, so if you want to see more code, buy me a coffee ☕️"**
+- ⚡ **I run on coffee, so if you want to see more code, buy me a coffee ☕️"** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
